@@ -86,7 +86,7 @@ cd AI_Agent_Project
 
 streamlit run app.py
 
-3. Open the browser link (e.g., http://localhost:8501) to access the dashboard.
+3. Open the browser link to access the dashboard.
 
 Features Usage
 
@@ -177,9 +177,8 @@ Friendly messages ensure smooth user experience.
 
 Intuitive interface for non-technical users to perform complex operations easily
 
-
-
-
-
 https://drive.google.com/file/d/1ln1kxBaGRekSOPo7NI6Ha7sgS8k0wHWX/view?usp=sharing  (Working Video Of Project-Drive)
+
 https://www.kapwing.com/w/giyQhQVL3V  (Working Video Of Project-kapwing)
+
+https://drive.google.com/drive/folders/1iW_Rt1KqOeeiko_fq8kog3mZRUmKAmOP (Folder)
